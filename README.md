@@ -34,3 +34,7 @@ Although, I can provide a ```.crx``` of the extension to easily install it but C
 3. Set your key combo.
 
 ![img.png](assets/key_image.png)
+
+## Privacy
+
+This extension, by any means, does not access any of your personal data. It's not even connected to any server and doesn't require internet for any thing. Also, it's not harmful or dangerous for your computer/chrome irrespective of what Chrome warns you about. It's completely open source and free for use.  
