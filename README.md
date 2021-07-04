@@ -31,4 +31,5 @@ Although, I can provide a ```.crx``` of the extension to easily install it but C
 1. Clone the repo.
 2. Open the ```manifest.json``` file.
 3. Set your key combo.
+
 ![img.png](assets/key_image.png)
