@@ -1,7 +1,7 @@
 # Github1s Chrome Extension
 
 This is the **unofficial** Github1s chrome extension which provides a popup and a shortcut key to open the current
-github repository in Github1s's Visual Studio Code layout. It works either by pressing the key shortcut mentioned below or clicking the extensions' button.
+github repository in Github1s's Visual Studio Code layout. It works either by pressing the key shortcut mentioned below or clicking the extension's button.
 
 ## Screenshot
 
