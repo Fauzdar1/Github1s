@@ -16,7 +16,7 @@ Although, I can provide a ```.crx``` of the extension to easily install it but C
 
 1. Clone or download this repo as a zip file.
 2. Extract the files into a folder.
-3. Open [Chrome Extensions Page](http://Chrome//:extensions).
+3. Open [Chrome Extensions Page](chrome://extensions/).
 4. Select Developer Mode from top-right corner of the tab.
 5. Click on ```Load Unpacked``` and select the folder which consists of these files.
 6. Press ```Ctrl``` + ```Shift``` + ```Z``` to open the curretly opened repository in Github1s or Click on the Extension icon and then, click on Open Github1s.
